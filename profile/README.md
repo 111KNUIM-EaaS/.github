@@ -8,7 +8,7 @@
 
 # 🌐 website
 
-[🌐 knueaas.mywire.org](http://knueaas.mywire.org/)
+Remove
 
 # 👥 Members
 
